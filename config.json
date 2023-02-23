@@ -1,5 +1,5 @@
 {
-  "MongoConnectionURL": "",
+  "MongoConnectionURL": "mongodb://dbUser:<password>@ac-oxxs81c-shard-00-00.4pk4287.mongodb.net:27017,ac-oxxs81c-shard-00-01.4pk4287.mongodb.net:27017,ac-oxxs81c-shard-00-02.4pk4287.mongodb.net:27017/?ssl=true&replicaSet=atlas-1exi03-shard-0&authSource=admin&retryWrites=true&w=majority",
 
   "StarPoints": 5000,
   "Tickets": 7000,
